@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: First Post live
 description: Lorem ipsum dolor sit amet
 pubDate: Jul 08 2022
 heroImage: /src/assets/blog-placeholder-1.jpg
